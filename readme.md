@@ -2,5 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos
 
-**Antonio Blázquez**
+**Antonio Blázquez**, Git lover
 
